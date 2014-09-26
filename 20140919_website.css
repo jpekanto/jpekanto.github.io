@@ -62,3 +62,56 @@
 .learn-more a {
   color: #00b0ff;
 }
+
+.recipe-header {
+  width: 100%;
+  height: 150px;
+  background: #ffbcb3 url(images/marshmallows_skewers.jpg) top left repeat;
+}
+
+.recipe-box {
+  width: 80%;
+  margin: 30px auto 50px auto;
+  border: 2px dashed #684833;
+}
+
+.recipe-header h1 {
+  font-family: Verdana, "Comic Sans", sans-serif;
+  text-align: center;
+  color: #684833;
+  font-weight: bold;
+}
+
+.recipe-box h2 {
+  font-family: Verdana, "Comic Sans", sans-serif;
+  text-align: center;
+  color: #684833;
+  font-weight: bold;
+}
+
+.recipe-box h4 {
+  font-family: Verdana, "Comic Sans", sans-serif;
+  text-align: center;
+  color: #684833;
+  font-weight: bold;
+}
+
+.recipe-box p {
+  font-family: Verdana, "Comic Sans" sans-serif;
+  color: #684833;
+  text-align: center;
+}
+
+.recipe-box li {
+  list-style-type: none;
+  margin-left: -35px;
+  font-family: Verdana, "Comic Sans", sans-serif;
+  color: #684833;
+  text-align: center;
+}
+
+.recipe-box img {
+  display: block;
+  margin: 50px auto 0 auto;
+  border: 5px dashed #684833;
+}
