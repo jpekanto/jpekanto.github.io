@@ -69,7 +69,7 @@
   background: #ffbcb3 url(images/marshmallows_skewers.jpg) top left repeat;
 }
 
-.recipe-box {
+.subpage-box {
   width: 90%;
   margin: 30px auto 50px auto;
   border: 2px dashed #684833;
@@ -112,4 +112,51 @@
 
 #milkteaimg {
   margin-top: 20px;
+}
+
+.recipe-idea {
+  color: #684833;
+}
+
+input, label {
+  margin: 20px 0 20px 0;
+}
+
+#text-areas td:first-child {
+  padding-top: -16px;
+}
+
+.email-me {
+  color: #684833;
+}
+
+.check-box {
+  padding-left: 20px;
+}
+
+.file {
+  margin: auto;
+}
+
+input[type=submit] {
+  border-radius: 5px;
+}
+
+.gallery {
+  margin-bottom: 30px;
+}
+
+.gallery p {
+  color: #684833;
+  font-family: Verdana, "Comic Sans", sans-serif;
+}
+
+.gallery h2 {
+  color: #684833;
+  font-family: Verdana, "Comic Sans", sans-serif;
+  font-weight: bold;
+}
+
+table {
+  margin-bottom: 30px;
 }
